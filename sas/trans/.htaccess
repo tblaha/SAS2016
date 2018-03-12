@@ -1,0 +1,7 @@
+AuthType Basic
+AuthName "Beschränkter Zugang! Bitte Nutzername und Passwort eingeben:"
+# Optional line:
+AuthBasicProvider file
+AuthUserFile "/srv/http/SAS_users"
+AuthGroupFile "/srv/http/SAS_groups"
+Require Group super orga bank wechsler

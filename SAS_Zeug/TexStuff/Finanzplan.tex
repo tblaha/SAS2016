@@ -1,0 +1,132 @@
+% Kompendium - Header - Template
+\documentclass[a4paper, 11pt]{report}
+
+\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{gensymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{natbib}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=25mm]{geometry}
+\usepackage{tocloft}
+\usepackage[explicit]{titlesec}
+\usepackage{parskip}
+\usepackage{draftwatermark}
+\usepackage{enumitem}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+\renewcommand{\thesection}      {\arabic{section}}
+%\renewcommand{\thesubsection}   {\arabic{subsection}}
+%\renewcommand{\thesubsubsection}{(\arabic{subsubsection}) }
+
+%\makeatletter
+%\setlength{\cftsubsecnumwidth}{5em}
+%\makeatother
+
+\newcommand*\strangep{$\vcenter{\hbox{\vspace{3pt}\includegraphics[height=8pt]{strangep}}}$}
+
+\titlespacing*{\subsection}{0pt}{0ex}{0ex}
+\titlespacing*{\subsubsection}{0pt}{2ex}{1ex}
+\titleformat{\subsubsection}[runin]{\normalfont\bfseries}{\thesubsubsection}{0pt}{}
+
+
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\leftskip=40pt\oldsubsection}
+
+
+\hypersetup{colorlinks=true, linkcolor=black}
+
+\SetWatermarkText{\sc{Finanzplan}}
+\SetWatermarkFontSize{4.5cm}
+
+\title{Finanzplan der Republik Sennenbrück}
+\author{}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\rhead{\textit{Finanzplan der Republik}}
+\cfoot{Seite \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+\newpage
+
+
+\section*{Präambel}
+
+In diesem Dokument werden Einzelheiten zur Finanzsystem der Republik Sennenbrück geregelt. Fokus liegt hierbei auf dem Steuer- und Banksystem. 
+
+\section*{Personenbezeichnungen}
+
+Bei Personenbeschreibung wurde in diesem Dokument immer nur die männliche Form geschrieben um die Lesbarkeit zu verbessern. Der Leser denke sich bitte jeweils beide Formen.
+
+\section{Währungspolitik}
+
+Ein großes Ziel jeder Volkswirtschaft ist es, die Bevölkerung zu einem stabilen und gut ausbalanciertem Level an Investitionen (\glqq Cashflow\grqq ) zu ermutigen. Da wir in unserem Staat außer Tourismus kaum eine externe Geldquelle haben (evtl. noch Gebühren beim Pari An- und Verkauf) ist es ohnehin schwierig, generell zu expandieren und den Wohlstand für alle zu verbessern. Da es aber auf Verbraucherseite schon zu Beginn kaum Ersparnisse gibt (etwas mehr als 5€ pro Kopf), hat sich die Regierung zu leicht inflationärer Monetärpolitik entschieden. Das heißt, wir ermutigen das Ausgeben von Geld indem wir eine leichte Inflation verursachen. Durch die darauf folgenden höheren Investitionen wollen wir die Expansion der Wirtschaft unterstützen.
+
+\subsection{Wechselkurse}
+
+Durch diese Inflation, also das in-den-Umlauf-bringen von mehr Währung als eigentlich gedeckt ist, sinkt der Wert des Pari's jeden Tag ein kleines bisschen. Daher gibt es ändern sich die Wechselkurse täglich.
+
+Der Wechselkurs am ersten Tag ist jedoch fix: 100 \strangep{} sind 1€. Zu diesem Preis können auch Pari angekauft werden. Für Staatsbürger gebührenfrei. Ausländer erhalten jedoch nur einen Ankaufkurs 5\% unter dem Wechselkurs, also am ersten Tag 95 \strangep{} für 1€.
+
+Wer Pari verkaufen will, muss sich auf einen Wechselkurs 10\% über dem eigentlichen Kurs einstellen, das heißt es wären am ersten Tag 110 \strangep{} nötig, um 1€ zu kaufen. Dies tun wird, um unsere eigene Währung zu stärken und den Verkauf zu minimieren. Eine Ausnahme davon ist der letzte Tag, an dem sich alle Staatsbürger den Pari zu 0\% Abweichung vom Kurs verkaufen können und ihre wohlverdienten Erträge aus der Woche auch im Ausland ausgeben können.
+
+\subsection{Diskretion dieser Werte}
+
+Das Wirtschafts- und Finanzministerium behält es sich vor, diese Werte und Prozentsätze während der Woche anzupassen. Die aktuellen Wechselkurse werden allerdings immer aushängen!
+
+\section{Startkapital}
+
+Vom eingezahlten Startkapital von 10€ (1.000 \strangep ) gingen 500 \strangep an das Unternehmen, in dem der jeweilige Bürger eingetragen war.
+
+\section{Aufgaben der Geschäftsleitungen}
+
+\subsection{Buchhaltung}
+
+In jedem Betrieb ist die Buchhaltung Aufgabe des Geschäftsleiters und seines Stellvertreters. Es sind \emph{alle} Einnahmen und Ausgabe aufzuschlüsseln. Sowohl Bargeldverschiebungen als auch elektronische Transaktionen müssen notiert werden. Dies kann mit Stift und Papier oder per Computeranwendungen geschehen, muss jedoch vollständig und für einen Steuerprüfer ausreichen nachvollziehbar sein. Betrug bei der Buchhaltung wird mit Bußgeldern bestraft und es ist ein Anlass für eine Zwangsverstaatlichung geboten, über die das Innenministerium entscheidet. Auch bewusst nachlässige Buchhaltung ist strafbar. 
+
+Bei Fragen kann man sich jederzeit an das Wirtschafts- und Finanzministerium wenden!
+
+\subsection{Lohnauszahlungen}
+
+Die Unternehmen legen vor jedem Arbeitstag schriftlich mit jedem Arbeitnehmer den Tageslohn fest, der nicht unter dem gesetzlichen Mindestlohn liegen darf. Die Unternehmen sind verpflichtet, diesen auch auszuzahlen, es sei denn, es gibt einen triftigen Grund dafür und dem Mitarbeiter wurde zeitnah gekündigt. Siehe Gesetzbuch §3 Artikel 2. 
+
+\subsection{Insolvenz}
+
+Am Ende des Tages werden die Löhne überwiesen. Sollte die Geschäftsleitung dazu nicht im Stande sein, muss unverzüglich Insolvenz beim Wirtschafts- und Finanzministerium angemeldet werden. Sollte die Geschäftsleitung Insolvenzverschleppung betreiben, also die Insolvenz nicht anmelden, um das noch übrige Geld für "ihre Zwecke" auszugeben, wird der Gerichtshof Strafen aussprechen. Diese werden von Pfändung bis zum Projektausschluss reichen. 
+
+Bei einer Verteilung der restlichen Geldern haben Gehälter Vorrang vor der Abführung der Mehrwertsteuer, siehe Sektion \ref{sec:MwSt}.
+
+Der Betrieb geht dann in staatliche Hand gemäß der gesetzlichen Regelungen §3 Artikel 11.
+
+\section{Einkommenssteuer}
+
+Der Lohn, der von den Unternehmen mit den Mitarbeitern ausgehandelt wird, versteht sich brutto. Das heißt, dass von diesem Betrag noch ein Prozentsatz von 15\% Einkommenssteuer abgeht. Als Beispiel würde vom Gehalt eines Arbeitnehmers, der den gesetzlichen Mindestbruttolohn von 350 \strangep{} ausgehandelt hat, nach der Besteuerung $350 * (1-0,15) = 297,5$ \strangep{} auf seinem Konto finden.
+
+Löhne müssen über die staatliche Bank elektronisch überwiesen werden, es dürfen keine Barzahlung an Arbeitnehmer getätigt werden. Ein Verstoß dagegen wird mindestens mit Bußgeld bestraft und richtet sich, je nach Schwere, gegen beide Parteien, Arbeitgeber und Arbeitnehmer.
+
+Die Steuer wird dann automatisch bei der Überweisung abgezogen.
+
+
+\section{Mehrwertsteuer} \label{sec:MwSt}
+
+Immer wenn bei einem Unternehmen ein Kauf getätigt wird, sind zusätzlich zu dem Verkaufspreis vom Unternehmen 20\% MwSt zu erheben. Sollte ein Unternehmen ein Produkt für 200 \strangep{} anbieten wollen, muss der Käufer dafür $200 * (1+0,20) = 240$ \strangep{} bezahlen. In der Buchhaltung ist am Ende des Tages der Gesamtumsatz des Unternehmen einsehbar und die Beamten des Wirtschafts- und Finanzministeriums ziehen 20\% dieses Betrages automatisch ein. Wenn ein Unternehmen also am Ende des Tages 7000 \strangep{} an Umsatz (NICHT PROFIT, PURE EINNAHMEN!) erwirtschaftet hat, gehen davon $7000 - (\frac{7000}{1+0,2}) = 1166,6$ \strangep{} an den Staat ab. Dies bitte berücksichtigen bei der Kalkulation, ob noch genug Geld für die Angestellten übrig ist!
+
+
+
+\end{document}

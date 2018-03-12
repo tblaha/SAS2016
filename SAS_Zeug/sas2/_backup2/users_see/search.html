@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8"> 
+
+<html>
+<body>
+
+<h1>Suchfunktion für Bürger</h1>
+Suchverknüpfung ist UND; leere Felder werden ignoriert.<br>
+<form action='search.php' method='GET'>
+ID:          <input name="id"><br>
+Vorname:     <input name="first_name"><br>
+Nachname:    <input name="last_name"><br>
+Firmen-ID:   <input name="c_id"><br>
+</select> 
+<input type="submit" name="get_details" value="Senden">
+</form>
+
+<h1>Suchfunktion für Firmen</h1>
+Suchverknüpfung ist UND; leere Felder werden ignoriert.<br>
+<form action='search.php' method='GET'>
+ID:        <input name="id"><br>
+Name:      <input name="display_name"><br>
+<input type="submit" name="get_details_company" value="Senden">
+</form>
+
+</body>
+</html> 

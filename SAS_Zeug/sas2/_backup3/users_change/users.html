@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8"> 
+
+<html>
+<a href="/">Zur Startseite</a>
+<body>
+
+<h1>Bürger anlegen/editieren</h1>
+Wenn ID leer gelassen wird, dann wird ein neuer Nutzer erzeugt. Wenn ID spezifiziert wird, dann wird der Nutzer editiert. Sollten beide Namensfelder frei bleiben, wir nur die Firmen_ID geändert. Eine Änderung der ID ist nicht möglich.
+
+Die Firmenzugehörigkeit ist optional.
+<form action='users.php' method='GET'>
+ID:              <input name="id"><br>
+Vorname:         <input name="f_name"><br>
+Nachname:        <input name="l_name"><br>
+Firmen_ID:       <input name="c_id"><br>
+<input type="submit" name="add_user" value="Senden">
+</form>
+
+<h1>Firmen anlegen/editieren</h1>
+Wenn ID leer gelassen wird, dann wird eine neue Firma erzeugt. Wenn ID spezifiziert wird, dann wird die Firma editiert und alle Zellen überschrieben, egal, ob sie leer sind oder nicht. Eine Änderung der ID ist nicht möglich.
+
+Die Spezifizierung eines CEOs ist optional.
+<form action='users.php' method='GET'>
+ID:              <input name="id"><br>
+Name:            <input name="display_name"><br>
+CEO-ID:          <input name="ceo_id"><br>
+<input type="submit" name="add_company" value="Senden">
+</form>
+
+</body>
+<br><br>Das Bankensystem für Schule als Staat an der iDSB 2016. Geschrieben von Till Blaha
+</html> 

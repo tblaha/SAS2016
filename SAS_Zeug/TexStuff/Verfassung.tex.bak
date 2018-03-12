@@ -1,0 +1,587 @@
+% Kompendium - Header - Template
+\documentclass[a4paper, 11pt]{report}
+
+\usepackage{amsmath}
+\usepackage[utf8]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{gensymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{natbib}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=25mm]{geometry}
+\usepackage{tocloft}
+\usepackage[explicit]{titlesec}
+\usepackage{parskip}
+\usepackage{draftwatermark}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+\renewcommand{\thesection}      {§\arabic{section}}
+\renewcommand{\thesubsection}   {Artikel \arabic{subsection}}
+\renewcommand{\thesubsubsection}{(\arabic{subsubsection}) }
+
+\makeatletter
+\setlength{\cftsubsecnumwidth}{5em}
+\makeatother
+
+
+\titlespacing*{\subsection}{0pt}{0ex}{0ex}
+\titlespacing*{\subsubsection}{0pt}{0ex}{0ex}
+\titleformat{\subsubsection}[runin]{\normalfont\bfseries}{\thesubsubsection}{0pt}{}
+
+
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\leftskip=40pt\oldsubsection}
+
+
+\hypersetup{colorlinks=true, linkcolor=black}
+
+\SetWatermarkText{\sc{Verfassung}}
+\SetWatermarkFontSize{4.5cm}
+
+\title{Verfassung der Republik Sennenbrück}
+\author{}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\rhead{\textit{Verfassung der Republik}}
+\cfoot{Seite \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+\newpage
+
+
+\section*{Präambel}
+
+Schüler, Schulleitung, Lehrer, Sekretärinnen und Hausmeister der iDSB sind gleichberechtigte Bürger der Republik Sennenbrück. In diesem wollen wir den Zusammenhalt untereinander stärken, demokratisches Zusammenleben einüben, sowie unseren Staat durch engagierte Mitarbeit politisch, wirtschaftlich und sozial fördern. Alle Lehrer und die Schulleitung werden einem Unternehmen zugeteilt.
+
+
+\section*{Personenbezeichnungen}
+
+Bei Personenbeschreibung wurde in diesem Dokument immer nur die männliche Form geschrieben um die Lesbarkeit zu verbessern. Der Leser denke sich bitte jeweils beide Formen.
+
+\section{Grundrechte}
+
+\subsection{[Menschenwürde]}
+
+ 
+
+\subsubsection{}
+Die Würde des Menschen ist unantastbar. Es ist Verpflichtung des Staates und aller Bürger und Bürgerinnen sie zu achten und zu schützen. 
+
+ 
+\subsubsection{}
+Jeder hat das Recht auf Leben und körperliche Unversehrtheit. 
+
+ 
+\subsubsection{}
+Jeder hat das Recht in unserem Staat in Würde, Frieden und größtmöglicher Freiheit zu leben, ebenso sind alle Bürgerinnen und Bürger gleichberechtigt 
+
+ 
+ 
+
+\subsection{[Freiheitsrechte]}
+
+ 
+
+\subsubsection{}
+Jeder hat das Recht auf die freie Entfaltung seiner Persönlichkeit, soweit er nicht gegen die Verfassung verstößt oder die Rechte anderer verletzt. 
+
+ 
+\subsubsection{}
+Die Freiheit des Glaubens und Gewissens sind unverletzlich. 
+
+ 
+\subsubsection{}
+Jeder hat das Recht, seine Meinung frei zu äußern. Pressefreiheit und die Freiheit der Berichterstattung gelten. Eine Zensur findet nicht statt. Diese Rechte finden ihre Schranken in den allgemeinen Gesetzen und in dem Recht der persönlichen Ehre. 
+
+ 
+\subsubsection{}
+Alle Bürger haben das Recht, sich friedlich zu versammeln sowie Vereine zu bilden. Vereinigungen, deren Zweck/Tätigkeit sich gegen die Verfassung richten, sind verboten. 
+
+ 
+\subsubsection{}
+Die Gründung einer Partei ist frei. Parteien, deren innere Ordnung gegen die der Grundsätze verstoßen sind verboten. 
+
+ 
+\subsubsection{}
+Jeder Bürger hat das Recht, seinen Beruf im Rahmen der wirtschaftlichen Möglichkeiten und der Geschäftsbedingungen frei zu wählen. 
+
+
+ 
+
+\subsection{[Petitionsrecht]}
+
+ 
+\subsubsection{}
+Jeder Bürger hat das Recht, sich mit Bitten und/oder Beschwerden an die Regierung zu richten. 
+
+ 
+
+\subsection{[Sklaverei, Leibeigenschaft]}
+
+ 
+\subsubsection{}
+Niemand darf in Sklaverei oder Leibeigenschaft gehalten werden. Sklaverei und Sklavenhandel sind in allen ihren Formen verboten. 
+
+ 
+
+\subsection{[Eigentum]}
+
+ 
+\subsubsection{}
+Das Eigentum und das Erbrecht werden gewährleistet. Inhalt und Schranken werden durch die Gesetze bestimmt. 
+
+
+\subsubsection{}
+Eigentum verpflichtet. Sein Gebrauch soll zugleich dem Wohle der Allgemeinheit dienen. 
+
+
+\subsubsection{}
+Eine Enteignung ist nur zum Wohle der Allgemeinheit zulässig. Sie darf nur durch Gesetzt oder auf Grund eines Gesetztes erfolgen, welches Art und Ausmaß regelt. 
+
+
+
+
+\subsection{[Staat]}
+
+ 
+\subsubsection{}
+Die Grundrechte werden vom Staat garantiert. 
+
+ 
+\subsubsection{}
+Alle Gewalten des Staates sind an die Verfassung gebunden. 
+
+ 
+
+\subsection{[Verstoß]}
+
+
+\subsubsection{}
+Der Verstoß gegen die Prinzipien der Grundrechte wird durch den Obersten Gerichtshof ausgesprochen und entsprechend bestraft.  
+
+
+\subsubsection{}
+Wird jemand in seinen Rechten verletzt, so steht ihm der Rechtsweg offen. 
+
+ 
+
+\subsection{[Einschränkung]}
+
+
+\subsubsection{}
+In keinem Falle darf ein Grundrecht in seinem Wesensgehalt angetastet werden. 
+
+
+\subsubsection{}Diese Grundrechte dürfen nur durch Gesetze (Bestrafung) eingeschränkt werden. Dazu zählt beispielsweise das Freiheitsrecht. 
+
+
+\section{Grundpflichten}
+
+
+
+
+ 
+\subsection{[Anwesenheitspflicht]}
+
+
+\subsubsection{}
+Während der Öffnungszeiten des Staates (8:00 bis 15:40) besteht für jeden Staatsbürger eine Anwesenheitspflicht. Der Staat ist weiterhin bis 17:00 geöffnet, wobei aber keine Anwesenheitspflicht gilt und auch viele staatliche Einrichtungen bereits geschlossen sein können.
+
+ 
+\subsubsection{}
+Wir wünschen uns, dass alle Lehrer in der ganzen Woche teilnehmen, doch Lehrkräfte mit halbem (etc.) Lehrauftrag sind nicht dazu verpflichtet. Sie müssen nicht länger anwesend sein/arbeiten als vorgesehen. 
+
+ 
+  
+\subsection{[Ausweispflicht]}
+
+
+\subsubsection{}
+Staatsangehörige sind verpflichtet, ihren Ausweis bei und nach Betreten des Staates mitzuführen und auf Verlangen vorzuweisen. 
+
+
+
+\subsection{[Parlament]}
+ 
+
+\subsubsection{}
+Den Beschlüssen des Parlaments und der Verfassung ist Folge zu leisten. 
+
+
+
+\subsection{[Unternehmen]}
+
+
+\subsubsection{}
+Ziel jedes Unternehmens ist es, wirtschaftlich zu arbeiten. 
+ 
+
+\subsubsection{}
+Jedes Unternehmen muss sich an das Jugendschutzgesetz halten. 
+
+
+\subsubsection{}
+Die Geschäftsbedingungen sind einzuhalten.  
+
+ 
+
+\subsection{[Säuberung des Staatsgebiets]}
+
+ 
+\subsubsection{}
+Jeder Staatsbürger ist dazu verpflichtet, das gesamte Staatsgebiet nach dem Projekt ordnungsgemäß so zu verlassen, wie es vorgefunden wurde. 
+
+ 
+\subsubsection{}
+Eventuell ausgeliehene Geräte werden ordnungsgemäß und unbeschädigt zurückgegeben. 
+
+ 
+\subsubsection{}
+Selbst mitgebrachte Gegenstände müssen wieder mitgenommen werden. 
+
+ 
+\subsubsection{}
+Jedes Unternehmen ist für seinen Handelsort verantwortlich. 
+
+ 
+
+\subsection{[Hausordnung]}
+
+
+\subsubsection{}
+Jeder Bürger hat die Hausordnung auch während des Projekts einzuhalten. 
+
+ 
+\subsubsection{}
+Es herrscht ein striktes Waffenverbot. 
+
+
+\subsubsection{}
+Es herrscht ein striktes Drogen-/Alkoholverbot. 
+
+
+
+\subsection{[Zoll]}
+
+
+\subsubsection{}
+Produkte und/oder Gegenstände, die von außerhalb des Staatsgebietes eingeführt werden, fallen unter Zollrichtlinien. Diese werden im Gesetzbuch und im Warenplan näher geregelt. 
+
+\subsubsection{}
+Zur Kontrolle dieser Richtlinien gibt es die Zollbeamten, welche befugt sind, Personenkontrollen durchzuführen.
+
+
+
+
+
+\section{Staatsgebiet}
+
+
+
+\subsection{[Staatsgebiet]}
+ 
+
+\subsubsection{}
+Das Staatsgebiet umfasst das gesamte Grundstück der iDSB. 
+
+
+
+\subsection{[Räumlichkeiten]}
+
+ 
+\subsubsection{}
+Innerhalb des Schulgebäudes sind nur die Räumlichkeiten nutzbar, die den Schülern auch im normalen Schulalltag ohne Aufsicht zur Verfügung stehen. Ausnahmegenehmigungen kann das Innenministerium erteilen.
+
+
+\subsubsection{}
+Betriebe oder Personen, denen Räume vom Staat zur Verfügung gestellt werden, sind verpflichtet, diese jederzeit in einem ordnungsgemäßen Zustand zu halten. Diese haben den Raum am Ende des Projekts sauber und in einem Ordnungsgemäßen Zustand zu hinterlassen.
+
+
+
+\section{Staatspolitik}
+\subsection{[Grundpflichten des Staates]}
+
+ 
+\subsubsection{}
+Der Staat entspricht der freiheitlich demokratischen Grundordnung. 
+
+ 
+\subsubsection{}
+Alle Staatsgewalt geht vom Volke aus. Sie wird vom Volk durch Wahlen und Abstimmungen und durch besondere Organe der Gesetzgebung, der vollziehenden Gewalt und der Rechtsprechung ausgeübt.
+
+
+
+\subsection{[Präsident]}
+
+\subsubsection{}
+Der Staatspräsident wird vom Parlament mit relativer Mehrheit gewählt.
+
+\subsubsection{}
+Der Präsident hat eine rein repräsentative Funktion.
+
+\subsubsection{}
+Als Präsident sind alle Personen wählbar.
+
+\subsubsection{}
+Dem Präsident ist jede weitere Nebentätigkeit untersagt.
+
+\subsubsection{}
+Wenn das Amt nicht zufriedenstellend ausgeführt wird, kann der Präsident mit
+Zweidrittelmehrheit des Parlaments abgesetzt werden.
+
+\subsubsection{}
+Der Präsident ist kein Mitglied des Parlaments, er hat aber ein Anhörungsrecht.
+
+\subsubsection{}
+Der Präsident ernennt die vom Kanzler vorgeschlagenen Minister und bestätigt den
+Parlamentspräsidenten.
+
+\subsubsection{}
+Der Präsident repräsentiert den Staat, darf jedoch keine Verhandlungen mit anderen
+Repräsentanten führen.
+
+\subsubsection{}
+Der Präsident unterschreibt die Gesetze. Erst dann haben sie Gültigkeit.
+
+\subsubsection{}
+Wird kein Präsident innerhalb der ersten 24 Stunden rechtskräftig gewählt, gehen
+die Rechte und Pflichten des Präsidenten an den Kanzler über. In diesem Falle entfallen
+Abs. 2, 4, 5, 6, 8 für den amtierenden Kanzler.
+
+
+\subsection{[Regierung]}
+
+ 
+\subsubsection{}
+Die Regierung hat die Leitung des Staates. Sie besteht aus dem Kanzler und den Ministern. 
+
+ 
+\subsubsection{}
+Die Regierung führt die vom Parlament beschlossenen Gesetze aus und führt die laufenden Geschäfte. 
+
+ 
+\subsubsection{}
+Die Regierung ernennt die Richter des Obersten Gerichtshofes. 
+
+ 
+\subsubsection{}
+Die Regierung bildet die Partei mit mehr als 50\% Stimmen. Sollte es diese Partei nicht geben, regieren die Parteien, die zuerst schaffen, eine Koalition mit insgesamt mehr als 50\% zu bilden. 
+
+ 
+\subsubsection{}
+Die Regierung trägt volle Verantwortung für alle Regierungsgeschäfte. 
+
+ 
+
+\subsection{[Kanzler, Minister]}
+
+ 
+\subsubsection{}
+Der Kanzlerkandidat der Partei mit den meisten Wahlstimmen wird Kanzler.
+
+
+\subsubsection{}
+Der Kanzler wird vom Präsidenten vereidigt.
+
+ 
+\subsubsection{}
+Der Kanzler ernennt und entlässt die Minister für folgende Aufgaben: 
+
+
+\begin{enumerate}
+\vspace{10pt}
+\setlength{\leftskip}{60pt}
+	\item Wirtschafts- und Finanzminister 
+	\item Arbeitsminister 
+	\item Außenminister 
+	\item Innenminister 
+	\item Justizminister 
+	\item Minister für besondere Aufgaben 
+\end{enumerate}
+ 
+\subsubsection{}
+Die Regierung kann weitere Ministerien gründen. 
+
+\subsubsection{}
+Der Kanzler unterschreibt die Gesetze. Erst dann haben sie Gültigkeit. 
+
+
+\subsection{[Parteien] }
+
+ 
+\subsubsection{}
+Jeder Staatsbürger hat das Recht eine Partei zu gründen. 
+
+ 
+\subsubsection{}
+Die innere Ordnung und Zielsetzung der Parteien muss demokratischen Grundsätzen und der Verfassung entsprechen. 
+
+ 
+\subsubsection{}
+Jede Partei muss ein öffentlich zugängliches Programm vorweisen. 
+
+ 
+\subsubsection{}
+Jede Partei muss mindestens sieben Mitglieder vorweisen können. 
+
+ 
+\subsubsection{}
+Jede Partei ist verpflichtet, eine vollständige Mitgliederliste  öffentlich zugänglich zu machen. 
+
+ 
+
+\subsection{[Parlament, Parlamentspräsident] }
+
+ 
+\subsubsection{}
+Das Parlament, bestehend aus 25 Abgeordneten, ist die Vertretung des Volkes. 
+
+ 
+\subsubsection{}
+Aufgabe des Parlaments ist es, Gesetze zu beschließen und die Regierung zu kontrollieren.  
+
+ 
+\subsubsection{}
+Der Parlamentspräsident wird vom Parlament vorgeschlagen und mit relativer Mehrheit gewählt. Er leitet die Sitzungen und verhält sich gegenüber den Parteien neutral. Der Parlamentspräsident ist für den störungsfreien Ablauf der Parlamentssitzungen verantwortlich und ihm steht zu, Abgeordnete bei schlechtem Verhalten für einen gewissen Zeitraum auszuschließen. Der Parlamentspräsident kann von dem Parlament mit relativer Mehrheit abgesetzt werden.
+
+ 
+
+ 
+
+\subsection{[Wahlsystem] }
+
+ 
+\subsubsection{}
+Die Parteien werden in einer allgemeinen, unmittelbaren, freien, gleichen und geheimen Verhältniswahl gewählt. 
+
+ 
+\subsubsection{}
+Jeder Bürger ist stimmberechtigt und besitzt das aktive und passive Wahlrecht. 
+
+ 
+\subsubsection{}
+Für die Parlamentswahl gibt es eine Sperrklausel in Höhe von 5%. 
+
+ 
+\subsubsection{}
+Die Parlamentssitze werden nach dem Verhältniswahlrecht verteilt.  
+
+ 
+\subsubsection{}
+Gewinnt eine Partei bei der Wahl mehr Sitze, als sie Listenplätze hat, muss sie für weitere Kandidaten werben, die für diese Partei ins Parlament einziehen. Die Kandidaten müssen vom Parlament anerkannt werden und können mit einer Zweidrittelmehrheit abgelehnt werden. 
+
+ 
+\subsubsection{}
+Jeder Bürger hat eine Stimme. 
+
+\section{Rechtssprechung}
+
+
+
+\subsection{[Oberster Gerichtshof]}
+
+ 
+\subsubsection{}
+Die Rechtsprechung wird von vier Richtern ausgeübt. 
+
+ 
+\subsubsection{}
+Für das Richteramt kann sich jeder Staatsbürger bewerben.
+
+ 
+\subsubsection{}
+Vor Gericht hat jeder Staatsbürger Anspruch auf rechtliches Gehör. 
+
+ 
+\subsubsection{}
+Die Richter sind unabhängig und nur dem Gesetz unterworfen. 
+
+ 
+\subsubsection{}
+Berufung gegen ein Urteil kann bei einem unbeteiligten Richter oder demselben Richter eingelegt werden, der ursprünglich entschieden hatte. 
+
+ 
+\subsubsection{}
+Jeder Bürger hat das Recht, Personen wegen einer Straftat anzuzeigen. 
+
+ 
+\subsubsection{}
+Mitglieder des Parlaments und der Regierung sowie der Präsident genießen Immunität gegen Strafverfolgung. Diese kann vom Parlament mit einfacher Mehrheit aufgehoben werden. 
+
+
+\section{Finanz- und Wirtschaftswesen}
+
+ 
+
+\subsection{[Finanzwesen]}
+
+ 
+\subsubsection{}
+Die Republik Sennenbrück besitzt eine eigene Währung, den \glqq Pari\grqq. Die Möglichkeit des Umtauschens von Euro in Pari, sowie von Pari in Euro ist zu jederzeit gewährleistet, unterliegt aber Auflagen.
+
+ 
+\subsubsection{}
+Es ist vorgesehen, dass jeder Staatsbürger ein Startkapital anlegt, um die Grundfinanzierung der Unternehmen und der Regierungsorgane zu sichern. Ohne Anlegen des Startkapitals ist keine Teilnahme am Projekt möglich. Näheres regelt das Gesetzbuch und der Finanzplan. 
+
+ 
+
+\subsection{[Wirtschaftswesen]}
+
+ 
+\subsubsection{}
+Die Republik Sennenbrück besitzt ein in sich geschlossenes Wirtschaftssystem, welches es anstrebt, weitgehend autark zu sein. Jegliche Regelungen zur Wirtschaft und Warenhandhabung sind im Gesetzbuch sowie im Warenplan geregelt. 
+
+ 
+
+ 
+
+\section{Notstand}
+
+ 
+
+\subsection{[Notstand]}
+
+ 
+
+\subsubsection{}
+Der Präsident kann den Notstand ausrufen, wenn das Parlament handlungsunfähig ist oder ein schnelles Handeln unabdingbar ist. 
+
+ 
+
+\subsubsection{}
+Ist der Notstand ausgerufen, so gehen Judikative, Legislative und Exekutive an die Regierung über. 
+ 
+
+ 
+
+ 
+
+\section{Verfassungsänderung}
+
+ 
+
+\subsection{[Verfassungsänderung]}
+
+ 
+
+\subsubsection{}
+Diese Verfassung kann - bis auf §1, §2, §3, §8, - durch das Parlament mit Zweidrittelmehrheit verändert werden. 
+
+ 
+
+\end{document}

@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8"> 
+
+<html>
+<body>
+
+<h1>Transaktion ausführen</h1>
+<form action='transactions.php' method='GET'>
+Sender:    <select name="f_cat"><option value="users">Bürger</option><option value="companies">Firma</option></select> ID: <input name="f_id"><br>
+Empfänger: <select name="t_cat"><option value="users">Bürger</option><option value="companies">Firma</option></select> ID: <input name="t_id"><br>
+Betrag:    <input name="amount"><br>
+Steuersatz:<select name="tax"><option value="none">Keine</option><option value="Einkommenssteuer">Einkommenssteuer</option></select><br>
+Zweck der Überschreibung: <input type="text" name="description"><br>
+<input type="submit" name="transaction" value="Senden">
+</form>
+
+<h1>Transaktion rückgängig machen</h1>
+<form action='transactions.php' method='GET'>
+Transaktions-ID: <input name="trans_id"><br>
+<input type="submit" name="revoke_transaction" value="Senden">
+</form>
+
+</body>
+</html> 

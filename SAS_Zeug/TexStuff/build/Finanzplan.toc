@@ -1,0 +1,11 @@
+\select@language {ngerman}
+\contentsline {section}{\numberline {1}W\IeC {\"a}hrungspolitik}{2}{section.0.1}
+\contentsline {subsection}{\numberline {1.1}Wechselkurse}{2}{subsection.0.1.1}
+\contentsline {subsection}{\numberline {1.2}Diskretion dieser Werte}{2}{subsection.0.1.2}
+\contentsline {section}{\numberline {2}Startkapital}{2}{section.0.2}
+\contentsline {section}{\numberline {3}Aufgaben der Gesch\IeC {\"a}ftsleitungen}{3}{section.0.3}
+\contentsline {subsection}{\numberline {3.1}Buchhaltung}{3}{subsection.0.3.1}
+\contentsline {subsection}{\numberline {3.2}Lohnauszahlungen}{3}{subsection.0.3.2}
+\contentsline {subsection}{\numberline {3.3}Insolvenz}{3}{subsection.0.3.3}
+\contentsline {section}{\numberline {4}Einkommenssteuer}{3}{section.0.4}
+\contentsline {section}{\numberline {5}Mehrwertsteuer}{3}{section.0.5}

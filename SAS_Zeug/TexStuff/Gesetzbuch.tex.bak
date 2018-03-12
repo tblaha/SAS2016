@@ -1,0 +1,579 @@
+% Kompendium - Header - Template
+\documentclass[a4paper, 11pt]{report}
+
+\usepackage{amsmath}
+\usepackage[utf8x]{inputenc}
+\usepackage[ngerman]{babel}
+\usepackage{gensymb}
+\usepackage{graphicx}
+\usepackage{wrapfig}
+\usepackage{natbib}
+\usepackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\usepackage{hyperref}
+\usepackage[margin=25mm]{geometry}
+\usepackage{tocloft}
+\usepackage[explicit]{titlesec}
+\usepackage{parskip}
+\usepackage{draftwatermark}
+\usepackage{enumitem}
+
+\usepackage[T1]{fontenc}
+\usepackage{newtxtext}
+
+\setcounter{tocdepth}{2}
+\setcounter{secnumdepth}{3}
+\renewcommand{\thesection}      {§\arabic{section}}
+\renewcommand{\thesubsection}   {Artikel \arabic{subsection}}
+\renewcommand{\thesubsubsection}{(\arabic{subsubsection}) }
+
+\makeatletter
+\setlength{\cftsubsecnumwidth}{5em}
+\makeatother
+
+\newcommand*\strangep{$\vcenter{\hbox{\vspace{2pt}\includegraphics[height=12pt]{strangep}}}$}
+
+\titlespacing*{\subsection}{0pt}{2ex}{0ex}
+\titlespacing*{\subsubsection}{0pt}{0ex}{0ex}
+\titleformat{\subsubsection}[runin]{\normalfont\bfseries}{\thesubsubsection}{0pt}{}
+
+
+\let\oldsubsection\subsection
+\renewcommand{\subsection}{\leftskip=40pt\oldsubsection}
+
+
+\hypersetup{colorlinks=true, linkcolor=black}
+
+\SetWatermarkText{\sc{Gesetzbuch}}
+\SetWatermarkFontSize{4.5cm}
+
+\title{Gesetzbuch der Republik Sennenbrück}
+\author{}
+
+
+\usepackage{fancyhdr}
+\pagestyle{fancy}
+\setlength{\headheight}{15pt}
+\rhead{\textit{Gesetzbuch der Republik}}
+\cfoot{Seite \thepage}
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+
+\begin{document}
+\maketitle
+
+\tableofcontents
+\newpage
+
+
+\section*{Präambel}
+
+Dieses Gesetzbuch enthält Gesetze und Verordnungen der Republik Sennenbrück, die vom Parlament mit einfacher Mehrheit festgelegt und geändert werden können.
+
+Im Gesetzbuch werden die wichtigsten Rechtsbeziehungen zwischen den gleichberechtigten Bürgern unseres Staates geregelt und es ergänzt somit unsere Verfassung, welche nur mit Zwei-Drittel-Mehrheit geändert werden kann. Dieses Gesetzbuch enthält generelle Vorschriften und Regelungen zu den Rechten und Pflichten jedes einzelnen Staatsbürgers. 
+
+
+\section*{Personenbezeichnungen}
+
+Bei Personenbeschreibung wurde in diesem Dokument immer nur die männliche Form geschrieben um die Lesbarkeit zu verbessern. Der Leser denke sich bitte jeweils beide Formen.
+
+\section{Grundpflichten}
+
+ 
+
+\subsection{[Unternehmen]}
+
+ 
+\subsubsection{}
+Ziel jedes Unternehmens ist es, wirtschaftlich zu arbeiten. Sollte dies nicht eingehalten werden, kann es zur Zwangsverstaatlichung kommen. 
+
+\subsubsection{}
+Jedem Arbeitnehmer und Arbeitgeber des Staates steht täglich eine gesetzlich vorgeschriebene Pause von einer Stunde zu. 
+
+\subsubsection{}
+Unternehmen müssen während der offiziellen Öffnungszeit durchgehend geöffnet sein. Während der inoffiziellen Öffnungszeit, steht es ihnen frei, ob sie ihr Unternehmen öffnen. 
+
+\subsubsection{}
+Wenn Unternehmen nicht regelmäßig arbeiten, kann es zum Projektausschluss kommen. 
+
+\subsubsection{}
+Arbeitsverweigerungen einzelner Mitarbeiter und/oder Geschäftsführer sind anzuklagen und werden strafrechtlich verfolgt. 
+
+
+
+\subsection{[Hausordnung]}
+
+
+\subsubsection{}
+Jeder Bürger hat die Hausordnung auch während des Projektes einzuhalten, außer bei Abänderung (s. §1. Artikel 2.2). 
+
+\subsubsection{}
+Während der Woche ist die Benutzung eines Mobiltelefons generell erlaubt, zu Recherche und Dokumentationszwecken. Extensives Spielen mit elektronischen Geräten wird jedoch mit temporären Einzug des Gerätes geahndet.
+
+\subsubsection{}
+Während der Arbeitszeit ist die Nutzung eines Mobiltelefons und/oder anderen elektronischen Geräten nur mit Erlaubnis des Geschäftsführers erlaubt. Der Geschäftsführer kann bei Nichtbeachtung eine fristlose Kündigung aussprechen. Zudem kann er die Polizei verständigen, welche Schritte einleitet, die zum temporären Einzug des betroffenen Gerätes führen kann.
+
+
+
+\section{Finanz- und Wirtschaftswesen}
+
+\subsection{[Währung]}
+
+
+\subsubsection{}
+Es existiert die lokale Währung \glqq Pari\grqq{} (Zeichen \strangep , Unicode A752). Ausschließlich diese Währung hat innerhalb der Republik Sennenbrück Gültigkeit. Das Handeln mit Fremd- und/oder Parallelwährungen innerhalb der Republik Sennenbrück wird bestraft. 
+
+\subsubsection{}
+Der Wechselkurs ist Variabel, denn das Wirtschafts- und Finanzministerium kann sich jeden Abend nach Ladenschluss dazu entscheiden mehr Pari in Umlauf zu bringen um eine leichte Inflation hervorzurufen. Genaueres regelt der Finanzplan. 
+
+\subsubsection{}
+Bargeld wird von der Staatsbank ausgegeben. Einzig dieses Bargeld hat in der Republik Sennenbrück Gültigkeit. 
+
+\subsubsection{}
+Das Ausführen der Währung aus dem Staatsgebiet ist strafbar.  
+
+\subsubsection{}
+Zur Tätigung von Transaktionen elektronischer Art existiert ein staatliches elektronisches Bankensystem auf welches die Mitarbeiter der Staatsbank Zugriff haben. Deren Rechte und deren Prozeduren werden im Finanzplan der Regierung reguliert. 
+
+\subsubsection{}
+Einzig das Finanz- und Wirtschaftsministerium ist befugt Änderungen am elektronischen Finanzsystem zu tätigen. Es muss diese öffentlich einsehbar dokumentieren. 
+
+\subsubsection{}
+Wer Geldfälschung, Geldvernichtung oder Manipulation des elektronischen Finanzsystems in jeglicher Form betreibt, wird mit Projektausschluss und Pfändung jeglicher Pari Bestände bestraft und es wird sich vorbehalten, Autoritäten des Königreich Belgien einzuschalten. Der Versuch ist strafbar. 
+
+\subsubsection{}
+Bargeldverluste oder Beschädigungen sind umgehend an die Staatsbank zu melden.
+
+
+\subsection{[Finanzwesen]}
+
+
+\subsubsection{}
+Ein Finanzplan der Regierung regelt Details für jegliche Transaktionen, Besteuerungen und Löhne. Verstöße gegen Regelungen aus diesem Plan werden mit Bußgeldern bis Projektausschluss bestraft. 
+
+\subsubsection{}
+Jeder Staatsbürger legt ein Startkapital von mindestens 10€ an, welches zur Startfinanzierung der Unternehmen beziehungsweise der Regierung verwendet wird. Ohne Anlegen des Startkapitals ist keine Teilnahme am Projekt möglich.
+
+\subsubsection{}
+Für Staatsbürger bleibt der Erwerb von Pari kostenfrei.
+
+\subsubsection{}
+Besucher müssen mindestens 5€ bei Betreten des Staates in Pari umtauschen, wobei dann Gebühren anfallen. Näheres regelt der Finanzplan.
+ 
+
+\subsection{[Wirtschaftswesen]}
+
+ 
+\subsubsection{}
+Waren dürfen nur vom zentralen Warenlager bezogen werden. Die Masseneinfuhr von Waren ist nur dem zentralen Warenlager gestattet. Es können in Einzelfällen Ausnahmegenehmigungen vom Wirtschaftsministerium erteilt werden. 
+
+\subsubsection{}
+Die Einfuhr von Waren generell steht unter Auflagen, die im Warenplan näher geregelt sind. Jegliche Ausnahmegenehmigung wird von Wirtschaftsministerium erteilt. 
+
+\subsubsection{}
+Waren sind Dinge, die zur Herstellung von Produkten benötigt werden und Produkte, die mit Gewinnabsicht gehandelt werden. Maschinen zur Herstellung von Produkten dürfen also eingeführt werden, wenn sie nicht zum Verkauf bestimmt sind. 
+
+\subsubsection{}
+Das unerlaubte Einführen von Waren wird mit Warenentzug oder höheren Zollgebühren für diese Waren bestraft. Regelmäßiges Schmuggeln wird, je nach Schwere der Tat, mit Bußgeldern oder Projektausschluss betraft. 
+
+\subsubsection{}
+Bei unvollständiger Auszahlung des Lohnes wird der Arbeitgeber mit Bußgeldern bestraft. 
+
+
+\section{Arbeitsrecht}
+
+\subsection{[Arbeitspflicht]}
+
+ 
+\subsubsection{}
+Jeder Bürger muss pro Tag mindestens eine von drei gleichlangen Schichten im Unternehmen arbeiten, jedoch darf eine maximale Arbeitszeit von insgesamt 12 Stunden nicht überschritten werden. Ausgenommen sind die Betriebsleiter, die ihren Aufsichtspflichten nachzukommen haben. Aber auch hier darf die Verantwortung nicht allein auf dem ersten Betriebsleiter liegen. 
+
+ 
+\subsubsection{}
+Die Schichteinteilung erfolgt individuell in jedem Betrieb, wobei Abgeordnete des Parlaments und Staatssekretäre ein Vorrecht auf passende Arbeitszeiten haben. 
+
+\subsubsection{}
+Es gilt in drei Schichten zu Arbeiten. Über die Stärke der jeweiligen Schichten sowie deren Arbeitszeiten entscheidet die Geschäftsleitung. Es muss zu jedem Zeitpunkt der verpflichtenden Arbeitszeit genau eine Schicht arbeiten.  
+
+\subsubsection{}
+Geschäftsleiter und Stellvertreter gehören ebenfalls mindestens einer Schicht an. Sie haben ihre Pflichten unabhängig vom Zeitaufwand zu erfüllen.  
+
+\subsubsection{}
+Mitarbeitern, welche ihre Schicht wiederholt nicht einhalten, dürfen fristlos gekündigt werden. 
+
+\subsubsection{}
+Das Vernachlässigen der Reinigung des Arbeitsplatzes wird mit Bußgeld bestraft.
+
+\subsubsection{}
+Das Ministerium für Arbeit kann Ausnahmeregelungen treffen.
+
+
+\subsection{[Mindestlohn]}
+
+\subsubsection{}
+Jedem Angestellten ist ein Mindestbruttolohn von 250 Pari pro Tag zu Zahlen. 
+ 
+
+\subsection{[Arbeitnehmerkündigungsschutz]}
+
+ 
+\subsubsection{}
+Eine Kündigung kann nur schriftlich durch den Arbeitgeber oder Arbeitnehmer erfolgen und ist nur bei hinreichender Begründung gültig. 
+
+\subsubsection{}
+Die Begründung der Kündigung muss durch das Arbeitsministerium geprüft werden. 
+
+\subsubsection{}
+Einem Mitarbeiter darf auch ohne persönlichen Grund gekündigt werden, wenn die Entlassung nachweislich eine Insolvenz verhindert. Eine solche Kündigung wird nicht nur vom Arbeitsministerium sondern auch von Wirtschaftsministerium geprüft.
+
+\subsubsection{}
+Die Kündigungsfrist beträgt mindestens eine Stunde. 
+
+\subsubsection{}
+Dem Arbeitnehmer kann in den Ausfallzeiten (s. Art. 8) nicht gekündigt werden. 
+
+\subsubsection{}
+Missachtung des Arbeitnehmerkündigungsschutzes ist strafbar und wird mit hohen Bußgeldern oder sogar Verstaatlichung des Betriebs geahndet.
+
+\subsubsection{}
+Das Arbeitsministerium kann Ausnahmeregelungen treffen. 
+
+
+\subsection{[Arbeitslosenmeldung]}
+
+ 
+
+\subsubsection{}
+Der Gekündigte hat sich unverzüglich nach Erhalt der schriftlichen Kündigung beim Arbeitsministerium zu melden. 
+
+\subsubsection{}
+Tut er dies nicht, so wird der Gekündigte strafrechtlich verfolgt. Mögliche Strafen sind Bußgelder ab der Hälfte des bisherigen Tageslohns.
+
+\subsubsection{}
+Das Ministerium für Arbeit kann Ausnahmeregelungen treffen. 
+
+
+
+\subsection{[Arbeitslosenvermittlung]}
+
+ 
+\subsubsection{}
+Die Arbeitslosenvermittlung kann prinzipiell sowohl privat oder über das Arbeitsministerium erfolgen.
+
+\subsubsection{}
+Sobald ein Arbeitnehmer aber kündigt, gekündigt wird oder eine neue Stelle annimmt, muss er dies dem Arbeitsministerium innerhalb der nächsten Stunde schriftlich mitteilen. Verstöße werden mit Bußgeldern bestraft.
+
+\subsubsection{}
+Das Ministerium für Arbeit kann Ausnahmeregelungen treffen. 
+
+ 
+
+ 
+\subsection{[Wiedereinstellung von Arbeitslosen]}
+
+ 
+\subsubsection{}
+Nach einer Wiedereinstellung ist eine schriftliche Bestätigung von Seiten des Arbeitnehmers unverzüglich beim Arbeitsministerium einzureichen. Verstöße werden mit Bußgeldern bestraft.
+
+\subsubsection{}
+Das Arbeitsministerium kann Ausnahmeregelungen treffen. 
+
+ 
+
+\subsection{[Kontrollbefugnis des Organisationsteams]}
+
+ 
+\subsubsection{}
+Das Organisationsteam und das Wirtschaftsministerium besitzt in begründeten Verdachtsfällen das Recht, vor Ort in den Betrieben Daten zu erheben und zu kontrollieren. 
+
+\subsubsection{}
+Sowohl die Arbeitgeber als auch die Arbeitnehmer sind auskunftspflichtig gegenüber dem Organisationsteam und dem Wirtschaftsministerium. 
+
+\subsubsection{}
+Wird die Auskunftspflicht nicht eingehalten kann die Unternehmensleitung abgesetzt werden. 
+    
+    
+    
+\subsection{[Ausfall der Arbeitskraft]}
+
+ 
+\subsubsection{}
+Während des Projektes kann kein Urlaub genommen werden. 
+
+\subsubsection{}
+Bei einem Ausfall findet keine Lohnfortzahlung statt. 
+
+\subsubsection{}
+Es gilt eine Entschuldigungspflicht beim Geschäftsleiter.  
+
+\subsubsection{}
+Der Geschäftsleiter ist verpflichtet Abwesenheit in jedem Fall innerhalb von einer halben Stunde zu beim Arbeitsamt zu melden.
+
+\subsubsection{}
+Das Arbeitsministerium kann Ausnahmeregelungen treffen. 
+
+ 
+
+\subsection{[Arbeitsunfälle]}
+
+ 
+\subsubsection{}
+Sollte sich während der Projektphase ein Arbeitsunfall ereignen, muss dringend der zuständige Lehrer oder die Schulleitung informiert werden.
+ 
+
+\subsection{[Schwarzarbeit und Betteln]}
+
+ 
+\subsubsection{}
+Weder Schwarzarbeit noch Betteln sind erlaubt. Das Strafmaß reicht von Geldstrafen bis zu Projektausschluss.  
+
+ 
+
+\subsection{[Verstaatlichung]}
+
+ 
+\subsubsection{}
+Durch die Verstaatlichung eines Betriebes gehen alle Mitarbeiter des Betriebes als Beamten an den Staat über. Der Staat übernimmt jegliche Ausgaben und erhält alle Einnahmen des Betriebes. 
+
+ 
+\subsubsection{}
+Beamten haben kein Streikrecht. 
+
+ 
+\subsubsection{}
+Beamten werden nach dem Finanzplan bezahlt und können, aber bei ihrem Betriebsleiter mehr Lohn fordern. 
+
+ 
+\subsubsection{}
+Der Vorgesetzte eines jeden Betriebsleiters eines verstaatlichten Betriebes ist der Wirtschafts- und Finanzministerium. 
+
+\subsubsection{}
+Eine Verstaatlichung kann durch das Wirtschafts- und Finanzministerium durchgeführt werden, der Unternehmer ist nicht zu entschädigen.  
+
+
+ 
+
+\subsection{[Austauschprogramm]}
+
+ 
+\subsubsection{}
+Jeder Austauschschüler, Gastschüler oder Besucher bekommt ein Sondervisum mit folgenden Besonderheiten: 
+
+\subsubsection{}
+Es besteht eine Arbeitserlaubnis, aber keine Pflicht. 
+
+\subsubsection{}
+Es ist klar erkenntlich auf dem Visum, dass es sich um einen Staatsgast handelt. 
+
+\subsubsection{}
+Es besteht auch hier die Pflicht sich mit 10€ Umtausch in das Spiel einzukaufen.  
+
+\subsubsection{}
+Es fallen, wie bei nicht-Staatsbürgern, Umtauschgebühren an. Näheres regelt der Finanzplan.
+
+\subsubsection{}
+Gastschüler dürfen keine Regierungspositionen besetzen. 
+
+\subsubsection{}
+Gastschüler dürfen keine leitenden Unternehmenspositionen besetzen. 
+
+\subsubsection{}
+Gastschüler dürfen nicht Richter sein. 
+
+\subsubsection{}
+Gastschüler können genauso wie nicht jederzeit anwesende Schüler einem Unternehmen zusätzlich zu den ohnehin verpflichtend mindestens vier Angestellten zugeteilt werden. 
+    
+\subsubsection{}
+Gastschüler müssen beim Sekretariat und beim Kanzler gemeldet sein.
+
+\subsubsection{}
+Gastschüler haben kein Wahlrecht. 
+
+\subsubsection{}
+Gastschüler haben keine Beschwerderecht vor den Gerichten.
+
+\subsubsection{}
+Das Außenministerium kann Sonderregelungen für bestimmte Personengruppen treffen. 
+    
+    
+\section{Hygieneverordnungen}
+
+\subsection{[Allgemeine Vorschriften]}
+
+ 
+\subsubsection{}
+Der komplette Betrieb muss am Abend gereinigt werden. 
+
+\subsubsection{}
+Jeder Betrieb muss seinen Müll trennen. 
+
+\subsubsection{}
+Jeder Raum muss möglichst sauber gehalten werden. 
+
+\subsubsection{}
+Es dürfen nur hygienische Materialien verwendet werden. 
+
+\subsubsection{}
+Die zum Reinigen verwendeten Reinigungsmittel müssen selbst mitgebracht werden. 
+
+\subsubsection{}
+Bei Verletzung dieser Vorschriften kann es zu Strafgeld und bei weiterführender Missachtung zu Auflösung des Betriebes führen. Die Betriebs Mitarbeiter müssen sich dann einen neuen Beruf suchen. 
+
+ 
+
+\subsection{[Lebensmittelvorschriften]}
+
+ 
+\subsubsection{}
+Jeder Mitarbeiter, der mit Lebensmitteln in Berührung kommt, muss entweder Handschuhe tragen, oder seine Hände regelmäßig desinfizieren. 
+
+\subsubsection{}
+Bei der Verarbeitung oder dem Verkauf von Lebensmitteln muss eine Schürze getragen werden. 
+
+\subsubsection{}
+Mitarbeiter mit langen Haaren müssen diese zusammen machen. 
+
+\subsubsection{}
+Aller Schmuck muss abgelegt werden. 
+
+\subsubsection{}
+Innerhalb des Betriebes muss regelmäßig das Handtuch und Lappen gewechselt werden. 
+
+\subsubsection{}
+Es müssen verschiedene Lappen für verschiedene Arbeitsflächen verwendet werden. 
+
+\subsubsection{}
+Es ist auf die frische der Lebensmittel zu achten und diese sind sachgerecht aufzubewahren.
+
+\subsubsection{}
+Die Inhaltsstoffe aller Lebensmittel müssen für Allergiker klar erkenntlich ausgehängt werden.
+
+\subsubsection{}
+Die Essenszubereitung und Geldannahme müssen getrennt werden. (z.B. durch verschieden Personen) 
+
+\subsubsection{}
+Bei Missachtung dieser Vorschriften können Strafen angeführt werden, wie höheren Zoll auf ihre Waren oder Bußgelder.
+
+\subsubsection{}
+Bei grober Missachtung oder bei Missachtung in mehreren Fällen, kann das Unternehmen zwangsverstaatlicht oder geschlossen werden. 
+    
+    
+\section{Parlamentsordnung}
+    
+\subsection{[Sitzungsleitung]}
+
+ 
+\subsubsection{}
+Der Parlamentspräsident (PP) und der Kanzler (Ka) leiten die Sitzung gemeinsam. 
+
+\subsubsection{}
+Die Tagesordnungspunkte (TOPs) werden vom Parlamentspräsident geleitet. 
+
+ 
+
+\subsection{[Sitzungsablauf]}
+
+ 
+\subsubsection{}
+Verlesung des Protokolls der letzten Sitzung durch den PP. 
+
+\subsubsection{}
+Anträge zur Tagesordnung dürfen von den Mitgliedern des Parlaments (MPs) gestellt werden.
+ 
+\subsubsection{}
+Festlegung finaler Reihenfolge der Tagesordnung, Zeitplanung und spätestes Sitzungsende durch den PP.
+
+\subsubsection{}
+Der PP legt den Vorrang der einzelnen TOPs fest und sorgt auch Während der Sitzung für eine angemessene Verteilung der Sitzungszeit.
+
+\subsubsection{}
+Der Protokollauftrag wird vom PP an einen MP vergeben.
+
+\subsubsection{}
+Verlängerung der Zeit für Unterpunkte erfolgt nur nach Abstimmung mit relativer Mehrheit unter den MPs.
+
+\subsubsection{} 
+Am Ende wird der nächste Sitzungstermin festgelegt, möglichst mit Themen und Arbeitsaufträgen/ Zeitfristen.
+
+ 
+
+\subsection{[Rederecht]}
+
+ 
+\subsubsection{}
+Rederecht haben alle MPs, die Regierung und die Schulleitung.
+
+\subsubsection{}
+Arbeitsgruppen können kurz ihre Ergebnisse präsentieren 
+
+\subsubsection{}
+In jeder Sitzung sollte eine Partei zu einem Thema eine Rede halten, eventuell mit Gegenrede.
+
+\subsubsection{}
+Anträge auf Rederecht sind vorher dem PP mitzuteilen. Der letzte Protokollant schickt die Tagesordnung und das Protokoll der letzten Sitzung per Email an den PP.
+
+\subsubsection{}
+Wenn Parteien oder Parlamentarier über einem längeren Zeitraum keinen positiven Beitrag zum Parlament bringen oder die Sitzungen sogar stören, zu spät kommen und unmotiviert sind, können sie vom PP von den Sitzungen ausgeschlossen werden. 
+
+ 
+
+\subsection{[Delegationsrechte und Strafrechte]}
+
+ 
+\subsubsection{}
+Die Regierung darf Arbeitsaufträge an Parteien vergeben. Dabei ist zu rotieren und die Größe der Partei zu berücksichtigen.
+ 
+
+\subsection{[Abwesenheit]}
+
+ 
+
+\subsubsection{}
+Parteien können bei Abwesenheit eines Abgeordneten einen Stellvertreter stellen oder sein Stimmrecht an einen anderen Abgeordneten übertragen. 
+
+ 
+
+\subsection{[Formelle Kleidung]}
+
+ 
+\subsubsection{}
+Während der Parlamentssitzungen und der Tätigkeiten als Parlamentarier ist man verpflichtet folgende Bestimmungen einzuhalten: 
+
+\begin{enumerate}
+[label=\alph*)]
+\vspace{10pt}
+\setlength{\leftskip}{60pt}
+	\item Dem Anlass angemessene Kleidung zu repräsentativen Zwecken. 
+	\item Darstellung der Autorität des Parlaments durch einen gewissen Standard. 
+\end{enumerate}
+ 
+
+\section{Sicherheitsgesetzgebung}
+
+\subsection{[Organisationen zum Schutz der Allgemeinheit]}
+
+\subsubsection{}
+Zum Schutze des Wohles der Allgemeinheit, der freiheitlich demokratischen Grundordnung und der Einhaltung der Gesetzgebung existieren mehrere staatliche Organisationen welche als Teil der Exekutive arbeiten. Diese sind dem Innenministerium untergeordnet. 
+
+\subsubsection{}
+Es gibt folgende staatliche Organisationen 
+
+\begin{enumerate}[label=\alph*)]
+\vspace{10pt}
+\setlength{\leftskip}{60pt}
+	\item Polizei 
+    \item Zoll 
+    \item Steuerfahndung 
+    \item Staatsschutz 
+\end{enumerate}
+
+\subsubsection{}
+Alle aufgeführte Organisation haben im Rahmen der Verhältnismäßigkeit ein unbeschränktes Eingriffsrecht. Ihre Aufgaben belaufen sich neben der Organisationspezifischen Tätigkeit auf die Gefahrenabwehr und die Strafverfolgung. Zum Zwecke der Erfüllung ihrer Aufgaben können sie von ihrem Eingriffsrecht Gebrauch machen. 
+
+\subsubsection{}
+In Sonderfällen verfügen die Organisationen auch über ein unmittelbares Sanktionsrecht von dem Sie im Rahmen ihrer Aufgabe und der Verhältnismäßigkeit Gebrauch machen können. 
+
+
+
+
+\end{document}

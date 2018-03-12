@@ -1,0 +1,153 @@
+%
+%%%%% TEMPLATE %%%%%
+%
+%% One-Paged, Unenumerated Sectioning %%
+%
+
+
+%%%%%%%%%%%%%%%%
+%%% Preamble %%%
+%%%%%%%%%%%%%%%%
+
+
+% Class-definition
+\documentclass[a4paper, 11pt]{article}
+
+
+% Language and encodings
+\usepackage[english]{babel}					% or ngerman, dutch or french
+\usepackage[utf8]{inputenc}
+
+% Additional packages
+\usepackage{tabto}
+\usepackage[pdftex]{graphicx}
+\usepackage[export]{adjustbox}
+\usepackage{wrapfig}
+\usepackage{hyperref}
+\usepackage[margin=35mm]{geometry}
+\setlength\parindent{0pt}
+%\DeclareUnicodeCharacter{2014}{\dash}
+\renewcommand{\thesection}      {}
+\renewcommand{\thesubsection}      {\arabic{subsection}}
+
+
+
+
+% Defining, redefining and macroing
+\date{}										% Don't show the date
+\hypersetup{pdfborder={0 0 0}, colorlinks}
+
+
+% Meta-Data
+\title{\vspace{-20mm}Prozeduren}		% \vspace{-XYmm} to "pull" the Titel upwards
+\author{\Large{}\vspace{3mm} \\	% Little hack to get the subject without bitching with the titlepage environment
+		Till Blaha}
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%% Begin of the document %%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+
+\begin{document}
+\pagenumbering{gobble}			% I don't need no pagenumber, 'cause I know it's just one page...
+
+\maketitle
+
+\section{Zoll}
+
+\subsection{Zölle zusammenrechnen}
+
+Siehe Laura's Liste.
+
+
+\subsection{Zoll abbuchen}
+\subsubsection{http://sas.idsb2016.org/trans/transactions.html}
+Empfänger: Firma, ID: 1. \\ Kein Steuersatz \\ Zweck der Überschreibung: "Zoll für ???"
+
+\subsubsection{Abschicken, Kontrollieren und ggf. rückgängig machen}
+
+\newpage
+\section{Steuerfahndung}
+\subsection{Nach den Einnahmen der Schicht fragen.}
+\subsection{Fragen, ob Bargeld in Kasse den Einnahmen entspricht. Wenn nicht, warum?}
+\subsection{Dann Nachzählen und Wert vergleichen.}
+\subsection{Wenn weniger Einnahmen angegeben als Bargeld der Schicht: Verdacht auf Hinterziehung der MwSt durch niedrigere Angabe.}
+\subsection{Wurden noch keine Einnahmen von der Leitung berechnet, dann gezählten Wert an Bank weitergeben, sodass der Versuch, bei der Bank zu wenig Einnahmen anzumelden auffällt.}
+\subsection{Abschätzen, wie viel verkauft werden musste um auf die Einnahmen zu kommen. Ist das realistisch?}
+\subsection{Untersuchen, ob evtl. Bargeld bereits an Mitarbeiter ausgezahlt wurde. Das ist Hinterziehung der Einkommenssteuer.}
+\subsubsection{Ist zu wenig Geld in der Kasse? Warum}
+\subsubsection{Haben Mitarbeiter viel Bargeld bei sich? Woher dieses Bargeld?}
+\subsubsection{Bank mit Mitarbeiter-IDs benachrichtigen bei Verdacht, damit auffällt, wenn Mitarbeiter versuchen viel Geld einzuzahlen}
+
+%%%%%%%%%%%%
+% A Figure %
+%%%%%%%%%%%%
+
+
+%\begin{wrapfigure}{r}{0.5\textwidth}
+
+%	\vspace{-7mm}
+	
+%	\begin{center}
+%		\includegraphics[width=0.5\textwidth ,right]{TVCartoon.jpg}
+%		
+%		\vspace{-5mm}		
+%		\caption{The cartoon by J.R. Mora}
+%
+%	\end{center}	
+%	
+%
+%	\vspace{-2mm}
+%	
+%\end{wrapfigure}
+
+
+
+
+%%%%%%%%%%%%
+% The Text %
+%%%%%%%%%%%%
+
+
+%\section*{First Sample Section}
+%This is the first sample text of the template.
+
+
+%\subsection*{Itemized Subsection}
+%This is an example subsection with some itemized items.
+
+%\begin{itemize}
+
+%	\item Losing a job of resign
+%	\item Returning to or joining labourforce (stay-home-parents, students that left of finished school)
+%	\item Immigrating to a country
+
+%\end{itemize}
+
+
+
+
+%\section*{Not so First Sample Section}
+%This is the not so first sample text of the template.
+
+
+%\subsection*{Enumerated Subsection}
+%This is an example subsection with some enumerated items.
+
+%\begin{enumerate}
+
+%	\item Finding a job
+%	\item Retiring / Staying at home for domestic reasons
+%	\item Dying
+
+%\end{enumerate}
+
+
+%\vspace{5mm}
+%\texttt{XXX words}
+
+\end{document}

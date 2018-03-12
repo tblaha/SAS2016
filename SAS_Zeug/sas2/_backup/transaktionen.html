@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8"> 
+
+<html>
+<body>
+
+<h1>Transaktion ausführen</h1>
+<form action='transactions.php' method='GET'>
+ID des Senders:    <input name="f_id"><br>
+ID des Empfängers: <input name="t_id"><br>
+Betrag:            <input name="amount"><br>
+Zweck der Überschreibung: <input type="text" name="description"><br>
+<input type="submit" name="transaction" value="Senden">
+</form>
+
+<h1>Kontoauszug generieren</h1>
+<form action='transactions.php' method='GET'>
+ID:                <input name="id"><br>
+Max. Zeilenanzahl: <input name="limit"><br>
+<input type="submit" name="generate_reciept" value="Senden">
+</form>
+
+</body>
+</html> 

@@ -1,0 +1,15 @@
+Important Queries:
+
+SELECT * FROM users a WHERE account > 3900 AND id > 1147 AND EXISTS( SELECT 1 FROM pay_in_out WHERE t_id=a.id LIMIT 1);
+
+SELECT id,mode,t_id,amount,date FROM pay_in_out a WHERE EXISTS ( SELECT 1 FROM pay_in_out b WHERE abs(UNIX_TIMESTAMP(a.date) - UNIX_TIMESTAMP(b.date)) < 4 AND a.t_id = b.t_id LIMIT 1 OFFSET 1);
+
+SELECT id,t_id,amount,tax_amount,date,cashier FROM pay_in_out;
+
+SELECT id,f_id,t_id,amount,tax_amount,date,cashier FROM transactions;
+
+SELECT * FROM users a WHERE account > 4200 AND id > 1147 AND EXISTS( SELECT 1 FROM pay_in_out WHERE t_id=a.id LIMIT 1);
+
+SELECT * FROM users a WHERE account > 4200 AND id > 1147 AND EXISTS( SELECT 1 FROM pay_in_out WHERE t_id=a.id LIMIT 1);
+
+SELECT id,f_name,l_name,account,(account*(SELECT rate FROM rates WHERE day=5)) AS euros FROM users;

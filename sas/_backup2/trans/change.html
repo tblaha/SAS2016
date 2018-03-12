@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+
+<meta charset="UTF-8"> 
+
+<html>
+<body>
+
+<h1>Pari wird von Kunde angekauft</h1>
+<form action='change.php' method='GET'>
+Kunde ist: <select name="cat"><option value="users">Bürger</option><option value="visitors">Besucher</option></select><br>
+Bürger-ID: <input name="t_id">Nur für Bürger, sonst leer lassen.<br>
+Name     : <input name="name">Nur für Besucher, sonst leer lassen.<br>
+Betrag:    <input name="amount">€<br>
+<input type="submit" name="buy" value="Senden">
+</form>
+
+<h1>Pari wird von Kunde verkauft</h1>
+<form action='change.php' method='GET'>
+Kunde ist: <select name="cat"><option value="users">Bürger</option><option value="visitors">Besucher</option></select><br>
+Bürger-ID: <input name="t_id">Nur für Bürger, sonst leer lassen.<br>
+Name     : <input name="name">Nur für Besucher, sonst leer lassen.<br>
+Betrag:    <input name="amount">Ꝓ<br>
+<input type="submit" name="sell" value="Senden">
+</form>
+
+</body>
+</html> 

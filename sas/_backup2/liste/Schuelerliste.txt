@@ -1,0 +1,348 @@
+Name                     Vorname                         Klassenstufe    Klasse   PingPing iDSBcard Nr
+Boeckle                  Ray Maurice Chen                            5   a        IDSB1500111397
+de la Torre Schoenborn   Alexandra                                   5   a        IDSB1500111989
+Freyer                   Pascal                                      5   a        IDSB1500111993
+Häckel                   Hanna                                       5   a        IDSB1500112018
+Heider                   Johann                                      5   a        IDSB1500111998
+Hendricks Ariza          Maria Teresa                                5   a        IDSB1500111994
+Kirfel                   Jule Lotta                                  5   a        IDSB1500111402
+Kolberg                  Hannah                                      5   a        IDSB1500111403
+Kuebart                  Leoni                                       5   a        IDSB1500111977
+Morley                   Vincent                                     5   a        IDSB1500112026
+Nedebock                 Julia Linda                                 5   a        IDSB1500111406
+Niederwemmer             Frederik                                    5   a        IDSB1500111593
+Rackwitz                 Tristan                                     5   a        IDSB1500111407
+Reimann De La Cruz       Eliana Luna                                 5   a        IDSB1500112041
+Schubert                 Jannik                                      5   a        IDSB1500111997
+Span                     Lukas Arpad                                 5   a        IDSB1500111410
+Thomaschik               Antonia                                     5   a        IDSB1500111965
+Winter                   Clara Marie                                 5   a        IDSB1500111412
+Blaha                    Sophie                                      5   b        IDSB1500111960
+Bruns                    Nora                                        5   b        IDSB1500111382
+Büchi                    Zélie Elise                                 5   b        IDSB1500111969
+Buchwald                 Adrian                                      5   b        IDSB1500111992
+Cismas                   Maura                                       5   b        IDSB1500111385
+Essing                   Lina Marie                                  5   b        IDSB1500111559
+Franken                  Luciana Amelia                              5   b        IDSB1500111386
+Gerland                  Niklas                                      5   b        IDSB1500112101
+Hummelsheim              Alma                                        5   b        IDSB1500111388
+Kelm                     Max                                         5   b        IDSB1500111389
+Kippel                   Daniel                                      5   b        IDSB1500111390
+Krutz                    Benedict                                    5   b        IDSB1500111988
+Lehnart                  Paulina Clara                               5   b        IDSB1500111392
+Möckl                    Lara Kristin                                5   b        IDSB1500111393
+Schneider                Martin                                      5   b        IDSB1500111582
+Shiaan                   Nuh                                         5   b        IDSB1500111394
+Strobl                   Anna                                        5   b        IDSB1500112102
+Ziegler                  Linette                                     5   b        IDSB1500112070
+Fichtner                 Luc Aaron                                   6   a        IDSB1500111580
+Garbe                    Fiona                                       6   a        IDSB1500111364
+Gerber                   Moritz Frank Gerhard                        6   a        IDSB1500111365
+Giustini Perez           Victor                                      6   a        IDSB1500111366
+Heider                   Benedikt                                    6   a        IDSB1500111928
+Helssen                  Johan Alexander                             6   a        IDSB1500111368
+Hillmeyer                Isabella Tritto                             6   a        IDSB1500111348
+Holzhauer                Thomas                                      6   a        IDSB1500111370
+Kämmerer                 Angelina                                    6   a        IDSB1500111371
+Kowalski                 Elena Sophie                                6   a        IDSB1500111985
+Krause                   Simon                                       6   a        IDSB1500111372
+Krutz                    Jacob                                       6   a        IDSB1500111373
+Lau                      Maximilian Karl-Friedrich                   6   a        IDSB1500111374
+Lotter                   Nils                                        6   a        IDSB1500112031
+Müller-Friedman          Morena Kassandra Amélie                     6   a        IDSB1500111376
+
+
+                                                     1
+Piard                 Julien                   6   a   IDSB1500111973
+Plevoets              Konstantin               6   a   IDSB1500111574
+Riedel Santori        Pablo                    6   a   IDSB1500112068
+Rueb                  Nova Grace Della         6   a   IDSB1500111378
+Schmitt-Falckenberg   Paula                    6   a   IDSB1500111972
+Schönewolf            Mara Theresa             6   a   IDSB1500111380
+Warken                Cora                     6   a   IDSB1500111586
+Werner                Jessica                  6   a   IDSB1500111584
+Delhaes               Emilia Lieny Maria       6   b   IDSB1500111343
+Ducaru                Maria-Teodora            6   b   IDSB1500111344
+Freericks             Constantin               6   b   IDSB1500111345
+Grammatikos           Johannes                 6   b   IDSB1500111346
+Gunter                Noa Marie                6   b   IDSB1500112065
+Hillmeyer             Chiara Tritto            6   b   IDSB1500111369
+Kaldy                 Veronika                 6   b   IDSB1500111349
+Löbner                Lukas                    6   b   IDSB1500111350
+Neumüller             Jakob                    6   b   IDSB1500111351
+Niederwemmer          Charlotte                6   b   IDSB1500111592
+Rueb                  Maddox Van               6   b   IDSB1500111353
+Sachs                 Maksymilian              6   b   IDSB1500112000
+Siegfried             Lisa Marie               6   b   IDSB1500111355
+Skudnigg              Thorsten                 6   b   IDSB1500111356
+Stoll                 Julie                    6   b   IDSB1500111931
+Touati Laala          Leo                      6   b   IDSB1500111358
+Wegener               Melisande Alva           6   b   IDSB1500111360
+Wiermann              Tessa Lysanne            6   b   IDSB1500111932
+Zoicas                David Florin             6   b   IDSB1500111362
+Brand                 Louisa Anthea            7   a   IDSB1500111324
+Brenninkmeyer         Patricius                7   a   IDSB1500111325
+Cappellari            Silvio                   7   a   IDSB1500111326
+Favilli               Giulia                   7   a   IDSB1500111327
+Funk                  Emily                    7   a   IDSB1500112020
+Haizmann              Clara                    7   a   IDSB1500111329
+Hillmeyer             Luca Tritto              7   a   IDSB1500111330
+Ködderitzsch          Elisabeth Kaori          7   a   IDSB1500111332
+Palm                  Sabine                   7   a   IDSB1500111564
+Pollmeier             Moritz                   7   a   IDSB1500112040
+Ribbert               Oda Louise               7   a   IDSB1500111335
+Schorkops             Romy                     7   a   IDSB1500111336
+Sieverding            Timofey                  7   a   IDSB1500111979
+Trauth                Ann                      7   a   IDSB1500111339
+Urbanc                Anja                     7   a   IDSB1500111340
+von Wirén             Lilly                    7   a   IDSB1500111995
+Balke                 Gian Luca                7   b   IDSB1500111962
+Boeckle               Yasmin Sissi Chen        7   b   IDSB1500111308
+Büchi                 Chloé Liv                7   b   IDSB1500111961
+Dröge                 Leonie                   7   b   IDSB1500111310
+Forster               Johanna                  7   b   IDSB1500111971
+Hummelsheim           Max                      7   b   IDSB1500111312
+Kiesbauer             Lucie                    7   b   IDSB1500111589
+Münch                 Lili Carlotta            7   b   IDSB1500112014
+Nagy                  Dorian                   7   b   IDSB1500111314
+
+
+                                           2
+Nakao                    Konrad Shinnosuke              7   b   IDSB1500111315
+Sauer                    Constantin                     7   b   IDSB1500112078
+Schmidt                  Ina Joana                      7   b   IDSB1500112100
+Schormann Saavedra       Alexander                      7   b   IDSB1500111318
+Schubert                 Jona Alexander                 7   b   IDSB1500111319
+Schwab                   Rosina                         7   b   IDSB1500112008
+Singelnstein             Luca Maja                      7   b   IDSB1500112043
+Sorge                    Greta                          7   b   IDSB1500111338
+Stearns                  Amelie                         7   b   IDSB1500111983
+Steinhoff                Jana                           7   b   IDSB1500111323
+Ammann                   Tim Yannick                    8   a   IDSB1500111289
+Baumkötter               René-Benedict                  8   a   IDSB1500111290
+de la Torre Schoenborn   Tassilo                        8   a   IDSB1500112090
+Gutermuth                Jan Martin                     8   a   IDSB1500112042
+Hart                     Eleanor                        8   a   IDSB1500112088
+Hentschel                Tommy Alexander                8   a   IDSB1500112087
+Höll                     Chiara-Lou                     8   a   IDSB1500112027
+Holzhauer                Christoph                      8   a   IDSB1500112086
+Janzen                   Laura                          8   a   IDSB1500112025
+Kaldy                    Anna                           8   a   IDSB1500112084
+Kuks                     Jakob                          8   a   IDSB1500112044
+Märzhäuser               Jonas Gabriel                  8   a   IDSB1500111575
+Mehnert                  Anna                           8   a   IDSB1500112083
+Montgomery               Justin Patrick                 8   a   IDSB1500112082
+Morley                   Hazel Harriet                  8   a   IDSB1500112081
+Müller-Friedman          Estella Amira Liliana          8   a   IDSB1500112094
+Münchenberg              Jakob                          8   a   IDSB1500112108
+Schäfer                  Katharina                      8   a   IDSB1500112006
+Schwabe                  Michail                        8   a   IDSB1500112038
+Warken                   Miriam                         8   a   IDSB1500111588
+Westphal                 Otto                           8   a   IDSB1500112035
+Bauer                    Linus                          8   b   IDSB1500111269
+Boeckle                  Helen Amanda Chen              8   b   IDSB1500111270
+Brand                    Carlo Christian                8   b   IDSB1500112032
+Buchwald                 Amelie                         8   b   IDSB1500111272
+Dabkowski                Bartlomiej                     8   b   IDSB1500111273
+Damini                   Emilio                         8   b   IDSB1500111925
+Danners                  Jana                           8   b   IDSB1500111275
+Delhaes                  Antonia Ingrid Veronica        8   b   IDSB1500112029
+Gerber                   Sophie Ulrike Margarethe       8   b   IDSB1500111277
+Gienapp                  Celina                         8   b   IDSB1500111929
+Kreuzinger               Jared Gero                     8   b   IDSB1500111975
+Miseriaud                Rafael                         8   b   IDSB1500111280
+Näumann                  Paula                          8   b   IDSB1500111964
+Quedens                  Julian                         8   b   IDSB1500111585
+Romann                   Elena Maria                    8   b   IDSB1500111282
+Roschmann                Isabella Marie Louise          8   b   IDSB1500111283
+Schmid                   Emilia                         8   b   IDSB1500112013
+Strobl                   Sebastian                      8   b   IDSB1500111285
+Weber                    Sebastian                      8   b   IDSB1500111286
+Winter                   Maximilian Julius              8   b   IDSB1500111287
+Ziedler                  Charlotte Nina                 8   b   IDSB1500111288
+
+
+                                                    3
+Altmann                  Paula                            9   a   IDSB1500112009
+Cappellari               Elena                            9   a   IDSB1500111249
+Delhaes                  Jonathan Gundolf David           9   a   IDSB1500111963
+Dobran                   Alexandru-Victor                 9   a   IDSB1500111250
+Dröge                    Chiara                           9   a   IDSB1500111251
+Freericks                Johannes Benedikt Rudolfo        9   a   IDSB1500111252
+Freischem                Leonie Johanna                   9   a   IDSB1500111253
+Giustini Perez           Daniel                           9   a   IDSB1500111254
+Gorzel                   Piotr                            9   a   IDSB1500111255
+Gros                     Daniel                           9   a   IDSB1500112011
+Hauck                    Johanna Madeline                 9   a   IDSB1500111976
+Kadel                    Julius Sebastian                 9   a   IDSB1500112072
+Kirfel                   Lina                             9   a   IDSB1500111258
+Kohnen                   Tim                              9   a   IDSB1500111259
+Lechler                  Thomas Haukur                    9   a   IDSB1500111260
+Palm                     Sarah                            9   a   IDSB1500111563
+Rackwitz                 Victoria                         9   a   IDSB1500111261
+Ritgen                   Katharina                        9   a   IDSB1500111262
+Schulz                   Lasse                            9   a   IDSB1500111263
+Sima                     Stefan Andrei                    9   a   IDSB1500111264
+Varenholz                Constantin                       9   a   IDSB1500111266
+Weis                     Alina                            9   a   IDSB1500111267
+Wiesli                   Géraldine                        9   a   IDSB1500111268
+Blank                    Flora Dafina                     9   b   IDSB1500112069
+de la Torre Schoenborn   Blanca                           9   b   IDSB1500111927
+Dogan                    Kerim                            9   b   IDSB1500111228
+Emmanouilidis            Nicolas                          9   b   IDSB1500111229
+Gienapp                  Armin                            9   b   IDSB1500112033
+Gruhl                    Constantin                       9   b   IDSB1500112095
+Karstens                 Benjamin                         9   b   IDSB1500111232
+Keßler                   Ana                              9   b   IDSB1500111233
+Klasen                   Finn Alfred Friedrich-Wilhelm    9   b   IDSB1500112060
+Kuebart                  Annika                           9   b   IDSB1500111235
+Lehnart                  Sophia Regina                    9   b   IDSB1500111236
+Löbner                   Philip                           9   b   IDSB1500112106
+Messing                  Viktor                           9   b   IDSB1500111967
+Papazoglou-Hennig        Eliana                           9   b   IDSB1500112107
+Plevoets                 Fabiana                          9   b   IDSB1500111573
+Reljic                   Margareta                        9   b   IDSB1500111240
+Rodriguez Homberg        Joan Manuel                      9   b   IDSB1500112015
+Schönewolf               Emilie Rebecca                   9   b   IDSB1500111242
+Skudnigg                 Kerstin                          9   b   IDSB1500111243
+Steinbeck                Niklas                           9   b   IDSB1500111244
+Trauth                   Marc                             9   b   IDSB1500111245
+von Kameke               Louise                           9   b   IDSB1500111996
+Zwick                    Victoria                         9   b   IDSB1500111247
+Albers                   Patricia                         9   R   IDSB1500111224
+Quedens                  Jonas                            9   R   IDSB1500111587
+Speiser                  Charlotte Marie                  9   R   IDSB1500111225
+Berger                   Julia                           10   a   IDSB1500111209
+Boudon                   Déborah                         10   a   IDSB1500111974
+Brodersen                Toni Willem                     10   a   IDSB1500111212
+
+
+                                                  4
+Brodersen                Sonia Julie                 10   a   IDSB1500111211
+Büchi                    Lynn Sophie                 10   a   IDSB1500111213
+Burchard                 Raphael                     10   a   IDSB1500112096
+Debusmann                Marie-Charlotte             10   a   IDSB1500111215
+Freyer                   Patrick                     10   a   IDSB1500111216
+Grammatikos              Paula                       10   a   IDSB1500111217
+Krause                   Sina                        10   a   IDSB1500111218
+Krauß                    Fenja                       10   a   IDSB1500112030
+Montgomery               Hannah Elaine               10   a   IDSB1500111220
+Morley                   Amber Victoria              10   a   IDSB1500111221
+Portier                  Emile                       10   a   IDSB1500111222
+Zündorf                  Laura                       10   a   IDSB1500111223
+Bany-Lam                 Ahmad Abdulameer            10   b   IDSB1500111571
+Benninghoff              Mark Justin                 10   b   IDSB1500112062
+Burggraf                 Alexander                   10   b   IDSB1500111196
+Geilen                   Simon                       10   b   IDSB1500112064
+Heiderer                 Jonas                       10   b   IDSB1500111199
+Hillmeyer                Alessia Tritto              10   b   IDSB1500111200
+Huber                    Gina                        10   b   IDSB1500111201
+Ködderitzsch             Valentin Shintaro           10   b   IDSB1500111202
+Kreuzinger               Laetitia Rosa               10   b   IDSB1500111203
+Milis                    Julia Sophie Thérèse        10   b   IDSB1500111987
+Näumann                  Moritz                      10   b   IDSB1500111205
+Reimann De La Cruz       Nicolas                     10   b   IDSB1500111206
+Sieverding               Katharina                   10   b   IDSB1500111207
+Wagner                   Philipp Dominik             10   b   IDSB1500111208
+Werner                   Franziska                   10   b   IDSB1500111583
+Wiermann                 Lydia Ulrike                10   b   IDSB1500112007
+Bruns                    Simon                       10   R   IDSB1500111188
+Damini                   Luca                        10   R   IDSB1500112075
+Intemann                 Gernot                      10   R   IDSB1500111190
+Kämmerer                 Alexander                   10   R   IDSB1500111191
+Pollmeier                Patrick                     10   R   IDSB1500111192
+Söntgerath               Matthieu                    10   R   IDSB1500111193
+Wimmer                   Louis Martin                10   R   IDSB1500111194
+Appel                    Vincent                     11   a   IDSB1500111172
+Beckmann                 Maximilian                  11   a   IDSB1500111173
+Botschek                 Ellen Maria                 11   a   IDSB1500111174
+Boudon                   Marie-Sarah                 11   a   IDSB1500111175
+Brost                    Jeremias                    11   a   IDSB1500111991
+de la Torre Schoenborn   Xenia                       11   a   IDSB1500111930
+Delhaes                  Leopold Karl Dagobert       11   a   IDSB1500111178
+Forster                  Julia                       11   a   IDSB1500112002
+Griem                    Annalena                    11   a   IDSB1500111180
+Hennen                   Hans-Jannik                 11   a   IDSB1500111182
+Kirfel                   Bastian Mats                11   a   IDSB1500111183
+Neacsu                   Alexandra                   11   a   IDSB1500111184
+Schiltz                  Jan-Bernhard                11   a   IDSB1500111185
+Varenholz                Sebastian                   11   a   IDSB1500111168
+Weis                     Viola                       11   a   IDSB1500111170
+Wernig                   Georg                       11   a   IDSB1500111186
+Wiesli                   Janine                      11   a   IDSB1500111187
+
+
+                                                 5
+Blaha                Charlotte                       11   b   IDSB1500111156
+Dinkler              Benedikt                        11   b   IDSB1500111157
+Haizmann             Max                             11   b   IDSB1500111968
+Heffels              Clara                           11   b   IDSB1500111158
+Hohensee             Miriam Charlotte Amelie         11   b   IDSB1500111159
+Hohensee             Moritz Reinhold Wolfram         11   b   IDSB1500111160
+Kovacs               Erik                            11   b   IDSB1500111161
+Lehnart              Lea Maria                       11   b   IDSB1500111162
+Nakao                Hugo                            11   b   IDSB1500111163
+Roschmann            Sophia Caterina Christine       11   b   IDSB1500111164
+Saigau               Andra                           11   b   IDSB1500111165
+Sauer                Charlotte                       11   b   IDSB1500111166
+Schmid               Leonard                         11   b   IDSB1500111167
+von Kameke           August                          11   b   IDSB1500111169
+Zwick                Charlotte                       11   b   IDSB1500111171
+Blunck               Oliver                          11   F   IDSB1500111148
+Borchmann            Nele Anna                       11   F   IDSB1500111149
+Grabsch              Alexandra                       11   F   IDSB1500111150
+Haffke               Katrin Sofie                    11   F   IDSB1500111566
+Kadenbach            Nicolas                         11   F   IDSB1500111151
+Kögler               Sandy                           11   F   IDSB1500111152
+Malms                Felix Niklas                    11   F   IDSB1500111153
+Speiser              Anton                           11   F   IDSB1500111154
+Staebner             Mirco                           11   F   IDSB1500111155
+Bauer                Jonas                           12   a   IDSB1500111131
+Blaha                Till                            12   a   IDSB1500111132
+Brand                Jan Julius                      12   a   IDSB1500112034
+Brodersen            Niko                            12   a   IDSB1500111134
+Fechtner             Olivia                          12   a   IDSB1500111135
+Gaul                 Felix                           12   a   IDSB1500111136
+Gintzel              Marc                            12   a   IDSB6602569
+Gurriaran Reemtsma   Camila                          12   a   IDSB1500111137
+Heiderer             David                           12   a   IDSB1500111138
+Hoyos-Banchon        Camila                          12   a   IDSB1500111139
+Jaeger               Fabian Matthias                 12   a   IDSB1500111140
+Kallert              Paul Philipp                    12   a   IDSB1500111141
+Meyer                Dorothee                        12   a   IDSB1500112023
+Näumann              Julius                          12   a   IDSB1500111143
+Pollmeier            Felix                           12   a   IDSB1500111144
+Toboll               Camille                         12   a   IDSB1500111145
+van den Beukel       Myrthe Pauline                  12   a   IDSB1500111146
+von Ludwig           Cecilia                         12   a   IDSB1500111147
+Appel                Leonard                         12   b   IDSB1500111129
+Burggraf             Aurelia Layla                   12   b   IDSB1500111119
+Doytchinov           Martin                          12   b   IDSB1500112063
+Geilen               Leonard                         12   b   IDSB1500111999
+Grammatikos          Ioanna Franziska                12   b   IDSB1500111118
+Höll                 Laura-Sophie                    12   b   IDSB1500111126
+Huber                Lea                             12   b   IDSB1500111124
+Kohnen               Luc Francois Kris               12   b   IDSB1500111130
+Meyer                Annika                          12   b   IDSB1500111122
+Münchenberg          Lotta                           12   b   IDSB1500111121
+
+
+                                                 6
+Ritgen       Sven           12   b   IDSB1500111120
+Schmidt      Kester         12   b   IDSB1500111128
+von Wirén    Julius         12   b   IDSB1500111127
+Zingone      Ariane         12   b   IDSB1500111123
+Altmann      Sophia         12   F   IDSB1500112045
+Diezler      Laura          12   F   IDSB1500111115
+Griem        Michelle       12   F   IDSB1500111111
+Schubert     Leon           12   F   IDSB1500111113
+Teutemann    Kim Anna       12   F   IDSB1500111116
+Wodniansky   Mathias        12   F   IDSB1500111114
+
+
+
+
+                        7
+1
+1
+
